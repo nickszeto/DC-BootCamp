@@ -4,10 +4,10 @@ My Learning Journey through DC BootCamp 2022
 
 <b> Week 4 </b>
 
-Week 5
+<b> Week 5 </b>
 
-Week 6
+<b> Week 6 </b>
  
-Week 7
+<b> Week 7 </b>
 
-Week 8
+<b> Week 8 </b>
